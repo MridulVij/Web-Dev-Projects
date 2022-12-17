@@ -1,0 +1,11 @@
+body{
+    background-color: #2e3267;
+    width: 100vh;
+    height: 100ch;
+}
+
+.info{
+    font-size: 80%;
+    font-style: oblique;
+    color:azure;
+}
